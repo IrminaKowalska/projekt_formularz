@@ -1,0 +1,202 @@
+#contactform   {
+    background: #F9F9F9;
+    border-radius: 50px 60px;    
+    font-size: 15px;
+    line-height: 20px;
+    margin: 0 auto 25px;
+    overflow: hidden;
+    padding-top: 20px;
+    width: 700px;
+    
+}
+
+#contactform fieldset {
+    overflow: hidden;
+    padding:0 50px;
+    position: relativ;
+   
+   
+}
+#contactform legend {
+    color: #000;
+    font-size: 28px;
+            
+}
+
+#contactform dt{
+    position:relative;
+    top:1cm;
+    border-top: 1px dotted #13F;
+    padding-top:10px;
+}
+
+#contactform  dd {
+    position:relative;
+    left:6cm;
+    top:16px;
+    line-height:10px;
+}
+#contactform fieldset > dt > dd {
+    overflow: hidden;
+
+}
+
+#submit {
+    color: #FFFFFF;
+    padding: 10px 25px;
+    line-height: 40px;
+    background:#034;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom:1cm;
+    margin-left:6cm;
+    margin-top:1cm;    
+}
+#form {
+    background: #F9F9F9;
+    border-radius: 70px 80px;    
+    font-size: 15px;
+    line-height: 20px;
+    margin: 0 auto 25px;
+    overflow: hidden;
+    padding-top: 20px;
+    width: 700px;
+    
+}
+
+#form fieldset {
+    overflow: hidden;
+    padding:0 80px;
+    position: relativ;
+   
+
+}
+#form legend {
+    color: #000;
+    font-size: 28px;
+            
+}
+
+#form dt{
+    position:relative;
+    top:1cm;
+    border-top: 1px dotted #13F;
+    padding-top:10px;
+}
+
+#form  dd {
+    position:relative;
+    left:6cm;
+    top:16px;
+    line-height:10px;
+}
+#form fieldset > dt > dd {
+    overflow: hidden;
+}
+#contact  {
+    background: #F9F9F9;
+    border-radius: 50px 60px;    
+    font-size: 15px;
+    line-height: 20px;
+    margin: 0 auto 25px;
+    overflow: hidden;
+    padding-top: 20px;
+    width: 700px;
+    
+}
+
+#contact fieldset {
+    overflow: hidden;
+    padding:0 50px;
+    position: relativ;
+   
+   
+}
+#contact legend {
+    color: #000;
+    font-size: 28px;
+            
+}
+
+#contact dt{
+    position:relative;
+    top:1cm;
+    border-top: 1px dotted #13F;
+    padding-top:10px;
+}
+
+#contact  dd {
+    position:relative;
+    left:6cm;
+    top:16px;
+    line-height:10px;
+}
+#contact fieldset > dt > dd {
+    overflow: hidden;
+}
+
+#su {
+    color: #FFFFFF;
+    padding: 10px 25px;
+    line-height: 40px;
+    background:#034;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom:1cm;
+    margin-left:6cm;
+    margin-top:1cm;    
+}
+#termin {
+    background: #F9F9F9;
+    font-size: 15px;
+    line-height: 10px;
+    border-radius: 70px 90px;
+    width: 500px;
+    margin: 1 auto 10px;
+    overflow: hidden;
+    padding-top: 10px;
+    width: 500px;
+    
+}
+
+#termin fieldset {
+    overflow: hidden;
+    padding:0 60px;
+    position: relativ;
+   
+
+}
+#termin legend {
+    color: #000;
+    font-size: 28px;
+            
+}
+
+#termin dt{
+    position:relative;
+    top:1cm;
+    border-top: 1px dotted #13F;
+    padding-top:10px;
+}
+
+#termin  dd {
+    position:relative;
+    left:3cm;
+    top:12px;
+}
+#termin fieldset > dt > dd {
+    overflow: hidden;
+}
+#przycisk {
+    color: #FFFFFF;
+    padding: 10px 25px;
+    line-height: 40px;
+    background:#034;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom:1cm;
+    margin-left:4cm;
+    margin-top:1cm; 
+    
+       
+}
